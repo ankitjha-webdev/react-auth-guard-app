@@ -51,10 +51,4 @@ Contributions are always welcome!
 The project was developed by `Ankit Kumar`. If you'd like to contribute to the project, feel free to submit a pull request.
 ## Feedback
 
-If you have any feedback, please reach out to us at contact@ankitkumar.tech
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+If you have any feedback, please reach out to us at `contact@ankitkumar.tech`
