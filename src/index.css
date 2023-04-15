@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+html, body, 
+body > div, 
+body > div > .App
+{
+ height: 100%;
+ font-family: 'Montserrat', sans-serif;
+}
+.page-container{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 100%;
+}
+.page-block{
+ background-color: #fff;
+ padding: 30px 25px;
+ border-radius: 10px;
+ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+ position: relative;
+ overflow: hidden;
+}
+.page-heading{
+ font-size: x-large;
+ text-transform: capitalize;
+ margin-bottom: 15px;
+}
